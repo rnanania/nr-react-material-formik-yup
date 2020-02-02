@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Eslint configuration
 - Editor configuration
 - Prettier configuration
-- Husky and lin-stagged configuration
+- Husky and lint-stagged configuration
 - React, Material, Formik and Yup integration
 - Common development style guide
 - Some basic security configuration

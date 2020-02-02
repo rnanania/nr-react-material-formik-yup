@@ -69,4 +69,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Helpful Links
 
+### Pretttier, ESLint setup
+
 https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062
+
+### JS Extensions
+
+https://scotch.io/bar-talk/11-awesome-javascript-extensions-for-visual-studio-code

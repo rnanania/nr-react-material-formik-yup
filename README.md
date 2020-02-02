@@ -65,12 +65,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-## Helpful Links
+## Other helpful links
 
-### Pretttier, ESLint setup
-
-https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062
-
-### JS Extensions
-
-https://scotch.io/bar-talk/11-awesome-javascript-extensions-for-visual-studio-code
+- [Pretttier, ESLint setup](https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062)
+- [JS Extensions](https://scotch.io/bar-talk/11-awesome-javascript-extensions-for-visual-studio-code)
+- [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
